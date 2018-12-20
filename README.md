@@ -1,4 +1,4 @@
-# vscode-fullstack 
+# vscode-fullstack-developer-pack
 
 ## Installation
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
