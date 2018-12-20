@@ -2,6 +2,9 @@
     "name": "full-stack-developer-pack",
     "displayName": "Full Stack Developer Pack",
     "description": "extension pack for full stack developers",
+    "icon": "icon.png",
+    "publisher": "ickarakurt",
+    "repository": "https://github.com/ickarakurt/vscode-fullstack-developer-pack",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.30.0"
