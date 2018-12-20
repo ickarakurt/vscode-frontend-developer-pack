@@ -1,9 +1,16 @@
 # vscode-fullstack 
 
+## Installation
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+```
+ext install ickarakurt.full-stack-developer-pack
+```
+
 ### Prepared for :
 * PHP
 * Javascript (Node.js,React)
 * HTML & CSS
+
 
 ### Extensions
 
