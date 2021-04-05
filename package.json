@@ -1,11 +1,11 @@
 {
-    "name": "full-stack-developer-pack",
-    "displayName": "Full Stack Developer Pack",
-    "description": "extension pack for full stack developers",
+    "name": "frontend-developer-pack",
+    "displayName": "Frontend Developer Pack",
+    "description": "extension pack for frontend developers",
     "icon": "icon.png",
     "publisher": "ickarakurt",
-    "repository": "https://github.com/ickarakurt/vscode-fullstack-developer-pack",
-    "version": "0.0.1",
+    "repository": "https://github.com/ickarakurt/vscode-frontend-developer-pack",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.30.0"
     },
@@ -24,6 +24,7 @@
         "idleberg.icon-fonts",
         "ChakrounAnas.turbo-console-log",
         "wayou.vscode-todo-highlight",
-        "christian-kohler.path-intellisense"
+        "christian-kohler.path-intellisense",
+        "TabNine.tabnine-vscode"
     ]
 }
