@@ -1,5 +1,5 @@
 
-# vscode-fullstack-developer-pack
+# vscode-frontend-developer-pack
 
   
 
