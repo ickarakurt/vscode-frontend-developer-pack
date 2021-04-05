@@ -13,19 +13,17 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "wix.vscode-import-cost",
-        "HookyQR.beautify",
-        "dbaeumer.vscode-eslint",
-        "pranaygp.vscode-css-peek",
-        "Zignd.html-css-class-completion",
-        "HookyQR.minify",
-        "naumovs.color-highlight",
-        "formulahendry.auto-rename-tag",
-        "mikestead.dotenv",
-        "felixfbecker.php-intellisense",
         "ritwickdey.LiveServer",
-        "christian-kohler.path-intellisense",
-        "xabikos.JavaScriptSnippets",
-        "eg2.vscode-npm-script"
+        "ms-vscode-remote.remote-ssh",
+        "HookyQR.beautify",
+        "formulahendry.auto-rename-tag",
+        "eamodio.gitlens",
+        "pranaygp.vscode-css-peek",
+        "dsznajder.es7-react-js-snippets",
+        "kamikillerto.vscode-colorize",
+        "idleberg.icon-fonts",
+        "ChakrounAnas.turbo-console-log",
+        "wayou.vscode-todo-highlight",
+        "christian-kohler.path-intellisense"
     ]
 }
